@@ -1,0 +1,20 @@
+	Model	Mean Macro F1	Mean Accuracy	Mean F1 Deceased
+2	"RandomForestClassifier(class_weight='balanced_subsample', max_depth=30,
+                       max_features='auto', min_samples_leaf=5,
+                       min_samples_split=5, n_estimators=3000, random_state=42)"	0.7709753820175024	0.9305055200464846	0.4648924336072769
+3	"RandomForestClassifier(class_weight='balanced', max_depth=3,
+                       max_features='auto', min_samples_leaf=30,
+                       min_samples_split=30, n_estimators=3000,
+                       random_state=42)"	0.7657763671383513	0.9330621731551425	0.44761434422459273
+0	"RandomForestClassifier(class_weight='balanced', max_depth=24,
+                       max_features='auto', min_samples_leaf=21,
+                       min_samples_split=5, n_estimators=388, random_state=42)"	0.7640238281533029	0.9300609933197792	0.4501715670405746
+1	"RandomForestClassifier(ccp_alpha=2.0367054879710805e-05,
+                       class_weight='balanced_subsample', max_depth=21,
+                       max_features='log2', min_samples_leaf=8,
+                       min_samples_split=16, n_estimators=2369,
+                       random_state=42)"	0.7616349367274221	0.930002904443799	0.4417149703087507
+4	"RandomForestClassifier(class_weight='balanced', max_depth=25,
+                       max_features='log2', min_samples_leaf=15,
+                       min_samples_split=29, n_estimators=2893,
+                       random_state=42)"	0.7603184586220346	0.9290528762347472	0.43991298233889176

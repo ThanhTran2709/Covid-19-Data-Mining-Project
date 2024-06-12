@@ -1,0 +1,5 @@
+MLP Best Parameters:
+{alpha=0.5, hidden_layer_sizes=(150, 125, 100), learning_rate='adaptive', learning_rate_init=0.0001, solver='lbfgs')
+
+Accuracy: 0.7452, F1-score: 0.7056, F1-Score for Deceased: 0.4558
+

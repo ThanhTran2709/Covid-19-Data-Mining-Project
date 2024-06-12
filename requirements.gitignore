@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+datetime
+IPython
+thefuzz
+sklearn
+scikit-optimize
+imbalanced-learn
+scipy
+joblib

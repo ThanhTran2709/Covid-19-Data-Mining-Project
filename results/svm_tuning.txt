@@ -1,0 +1,5 @@
+SVM Best Parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'sigmoid'}
+
+Performance on validation set:
+Accuracy: 0.9201, F1-score: 0.9226, F1-Score for Deceased: 0.45842697
